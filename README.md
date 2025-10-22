@@ -22,7 +22,7 @@
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" height="40" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/supabase/supabase@main/web/static/supabase-logo-icon.svg" width="40" height="40" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" width="120" height="40" alt="Supabase" />
 </p>
 
 ---
