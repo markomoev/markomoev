@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" height="40" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://www.svgrepo.com/show/374118/supabase.svg" width="40" height="40" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
@@ -29,11 +29,6 @@
 ### 🌟 Featured Projects
 - 💰 [**Coinwise**](https://github.com/markomoev/coinwise) – A modern money management web app.  
 - 🗂️ [**project-manager**](https://github.com/markomoev/project-manager) – A project tracking tool with edit & delete functionality.  
-
----
-
-### 📊 GitHub Stats
-![Marko's GitHub stats](https://github-readme-stats.vercel.app/api?username=markomoev&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&custom_title=Total%20Commits%3A%20119)
 
 ---
 
