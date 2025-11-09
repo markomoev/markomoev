@@ -20,7 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" height="40" alt="TailwindCSS" />
-  <img src="[https://www.svgrepo.com/show/374118/supabase.svg](https://img.icons8.com/?size=100&id=sH0rW2TvYdr9&format=png&color=000000)" width="40" height="40" alt="Supabase" />
+  <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="40" height="40" alt="Supabase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
